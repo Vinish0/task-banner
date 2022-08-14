@@ -1,0 +1,29 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color: aliceblue;
+  
+}
+
+.heading{
+  letter-spacing: 3px;
+}
+
+.subheading{
+  font-size: 14px;
+  
+}
+
+.contain{
+  width: 600px;
+}
+
+.line{
+  line-height: 30px;
+}
+
+.line1{
+  line-height: 16px;
+}
+
